@@ -3,3 +3,4 @@ matplotlib
 numpy
 segment-anything
 torch
+torchvision
